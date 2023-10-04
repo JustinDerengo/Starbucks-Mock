@@ -1,0 +1,165 @@
+.flex-container {
+    display: flex;
+    margin: 30px;
+    
+    
+}
+
+.nav-link  {
+    float: left;
+    color: #1a0505;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: bold;
+    font-family: sans-serif;   
+    margin-left: 40px;
+}
+
+.findstore {
+    float: left;
+    color: #1a0505;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-style: bold;
+    font-family: sans-serif;   
+    margin-left: 760px;
+}
+
+.signin {
+    border-color: rgb(8, 0, 0);
+    color: rgb(5, 0, 0);
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 18px;
+    font-family: sans-serif;
+}
+
+.joinnow {
+    border-color: white;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 18px;
+    font-family: sans-serif;
+}
+
+.espresso {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.chai {
+    display: flex;
+    text-align: center;
+    flex-direction: row-reverse;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.pastry {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.giftcard {
+    display: flex;
+    text-align: center;
+    flex-direction: row-reverse;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+.description {
+    text-align: center;
+    color: white;
+    flex-direction: row-reverse;
+    margin: auto;
+    width: 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+
+.button {
+    border-color: white;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 18px;
+    font-family: sans-serif;
+  }
+
+  .footer {
+    display: flex;
+    margin: auto;
+    /* text-align: center; */
+   
+  }
+
+  .footer-header {
+    float: left;
+    color: #1a0505;
+    /* text-align: center; */
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: bold;
+    font-family: sans-serif;   
+    margin-left: 40px;
+  }
+
+  .footer-column {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    color: #1a0505;
+    /* text-align: center; */
+    /* padding: 14px 16px; */
+    text-decoration: none;
+    font-size: 20px;
+    font-style: bold;
+    font-family: sans-serif;   
+    margin-left: 3%;
+  }
+
+  .footer-link {
+    /* float: left; */
+    color: grey;
+    /* text-align: center; */
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    font-style: bold;
+    font-family: sans-serif;   
+    /* margin-left: 40px; */
+  }
+
+  ul {
+    list-style-type: none;
+  }
